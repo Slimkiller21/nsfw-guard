@@ -30,6 +30,7 @@
     "asarUnpack": [
       "node_modules/nsfwjs/dist/models/**"
     ],
+    "artifactName": "NSFW-Guard-Setup.exe",
     "win": {
       "target": "nsis"
     },
